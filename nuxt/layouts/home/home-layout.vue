@@ -47,6 +47,10 @@ export default {
         {
           title: 'Welcome',
           to: '/welcome'
+        },
+        {
+          title: 'Icons',
+          to: '/icons'
         }
       ]
     }
