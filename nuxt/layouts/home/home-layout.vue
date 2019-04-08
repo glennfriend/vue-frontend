@@ -51,6 +51,10 @@ export default {
         {
           title: 'Icons',
           to: '/icons'
+        },
+        {
+          title: 'Form',
+          to: '/form'
         }
       ]
     }
